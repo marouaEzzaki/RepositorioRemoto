@@ -6,6 +6,8 @@ public class Clase3 {
 		
 		System.out.println("Print de la clase3");
 		System.out.println("Trabajando desde la Rama1");
+		
+		System.out.println("Último print de la clase 2");
 
 	}
 
